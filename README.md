@@ -1,5 +1,4 @@
-# fai_chef_client
+# fai_chef_client_updater
 
-TODO: Enter the cookbook description here.
-
-# fai_chef_client
+This wrapper cookbook ensure you run the latetest Sable version of the chef Client and chefdk.
+It was the recommended by Chef to have this on every nodes.
